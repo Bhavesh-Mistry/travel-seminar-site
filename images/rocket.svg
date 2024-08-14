@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/streamline/growth</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="LandingPage/Desktop/Seminars2018-LandingPage-v4" transform="translate(-643.000000, -889.000000)" stroke="#F5F7F9" stroke-width="2">
+            <g id="1" transform="translate(-2.000000, 763.000000)">
+                <g id="icon" transform="translate(590.000000, 77.000000)">
+                    <g id="icon/streamline/rocket-white" transform="translate(52.000000, 46.000000)">
+                        <path d="M17,38 L47,8 C49.674,5.324 60,4 60,4 C60,4 58.676,14.324 56,17 C52.432,20.564 26,47 26,47 L17,38 Z" id="Stroke-1" stroke-linecap="round"></path>
+                        <path d="M21,34 L30,43" id="Stroke-3" stroke-linecap="round"></path>
+                        <path d="M40,33 C40,34.783 39.494,42.336 38.604,45.01 C38.037,46.705 36.258,49.137 35.035,50.361 C31.523,53.873 26,59 26,59 L28,45" id="Stroke-5"></path>
+                        <path d="M31,24 C29.219,24 21.588,24.43 18.914,25.322 C17.221,25.889 14.859,27.742 13.639,28.963 C10.123,32.479 5,38 5,38 L19,36" id="Stroke-7" stroke-linecap="round"></path>
+                        <path d="M20.7715,46.793 C22.5545,48.576 21.8105,51.104 19.8785,53.035 C17.4165,55.496 4.0005,60 4.0005,60 C4.0005,60 8.5015,46.582 10.9625,44.119 C12.9215,42.16 15.4215,41.445 17.2055,43.227" id="Stroke-9" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

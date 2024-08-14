@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="58px" viewBox="0 0 60 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/streamline/growth</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="2 61 62 61 62 3 2 3"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage/Desktop/Seminars2018-LandingPage-v4" transform="translate(-642.000000, -1487.000000)">
+            <g id="2" transform="translate(0.000000, 1363.000000)">
+                <g id="icon" transform="translate(588.000000, 75.000000)">
+                    <g id="icon/streamline/growth-white" transform="translate(52.000000, 46.000000)">
+                        <path d="M9.6523,34.8418 L55.0003,4.9998 L9.6523,34.8418 Z" id="Stroke-1" stroke="#F5F7F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <polyline id="Stroke-3" stroke="#F5F7F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="54 14 55 5 46 4"></polyline>
+                        <path d="M3,60 L61,60" id="Stroke-5" stroke="#F5F7F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-8"></g>
+                        <polygon id="Stroke-7" stroke="#F5F7F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="7 60 15 60 15 52 7 52"></polygon>
+                        <polygon id="Stroke-9" stroke="#F5F7F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="21 60 29 60 29 42 21 42"></polygon>
+                        <polygon id="Stroke-10" stroke="#F5F7F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="35 60 43 60 43 32 35 32"></polygon>
+                        <polygon id="Stroke-11" stroke="#F5F7F9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="49 60 57 60 57 22 49 22"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

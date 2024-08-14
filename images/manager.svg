@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/streamline/manager</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LandingPage/Desktop/Seminars2018-LandingPage-v4" transform="translate(-641.000000, -4153.000000)" stroke="#F5F7F9" stroke-width="2">
+            <g id="speakers" transform="translate(0.000000, 4078.000000)">
+                <g id="block" transform="translate(110.000000, 75.000000)">
+                    <g id="icon/streamline/manager" transform="translate(531.000000, 0.000000)">
+                        <path d="M27.0923125,10.5435 C20.7879375,10.5435 20.7879375,8.179125 19.9998125,7.391625 C19.2123125,8.179125 19.2123125,10.5435 12.9079375,10.5435" id="Stroke-1" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M29.375,13.125 L30.244375,9.755625 C30.244375,9.755625 31.0325,1.875 20,1.875 C8.9675,1.875 9.755,9.755625 9.755,9.755625 L10.54375,14.48375 C8.9675,15.271875 9.755,19.211875 12.119375,19.211875 C12.119375,23.94 17.635625,27.0925 20,27.0925 C20.97875,27.0925 22.659375,26.540625 24.15375,25.476875" id="Stroke-3" stroke-linecap="round"></path>
+                        <path d="M15.902125,25.4766875 L5.965875,28.2816875 C3.50525,29.2041875 1.87525,31.5566875 1.87525,34.1848125 L1.87525,38.1248125 L38.12525,38.1248125 L38.12525,34.1848125 C38.12525,31.5566875 36.494625,29.2041875 34.034,28.2816875 L24.153375,25.4766875" id="Stroke-5" stroke-linecap="round"></path>
+                        <path d="M31.875,17.7533125 L31.875,19.3751875 C31.875,21.2501875 30.170625,21.8751875 28.66875,21.8751875 L23.125,21.8751875" id="Stroke-7"></path>
+                        <path d="M33.125,15.625 C33.125,16.930625 31.93,18.125 30.625,18.125 L29.375,18.125 L29.375,13.125 L30.625,13.125 C31.93,13.125 33.125,14.319375 33.125,15.625 Z" id="Stroke-9" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M15.271625,15.271625 C15.271625,14.401 15.977875,14.4835 16.84725,14.4835 C17.7185,14.4835 18.424125,14.401 18.424125,15.271625" id="Stroke-11" stroke-linecap="round"></path>
+                        <path d="M21.5759375,15.271625 C21.5759375,14.401 22.2815625,14.4835 23.1521875,14.4835 C24.0228125,14.4835 24.7284375,14.401 24.7284375,15.271625" id="Stroke-13" stroke-linecap="round"></path>
+                        <path d="M23.125,21.875 C23.125,22.22 22.845,22.5 22.5,22.5 L19.375,22.5 C19.03,22.5 18.75,22.22 18.75,21.875 C18.75,21.53 19.03,21.25 19.375,21.25 L22.5,21.25 C22.845,21.25 23.125,21.53 23.125,21.875 Z" id="Stroke-15" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
